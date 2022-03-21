@@ -1,9 +1,10 @@
+const { Pool } = require('pg');
+
 const { Router } = require('express');
-// Traer todos los controladores de esta carpeta 
-
 const router = Router();
-// post('/ruta', controlador)
+// Traer todos los controladores de esta carpeta 
+const getProducts = require("./Controllers/getProducts");
 
-// router.post('/create');
+router.get('/users', getProducts);
 
-// module.exports = router;
+module.exports = router;
