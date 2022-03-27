@@ -4,54 +4,81 @@
       "name": "PALI BA10",
       "description": "Blender mini de pelo natural. Medidas Largo total: 18 cm Largo del pelo: 1.5cm Diámetro: 0.5 milímetros",
       "price": 700,
+      "active": true,
+      "category": "Brochas",
+      "marks": "Pali",
       "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/971/258/products/img_20210804_14045867321-76530d76819cdf004316280974848017-640-0.jpg"
     },
     {
       "name": "SET ABANICOS PELO NATURAL",
       "description": "Set de 5 brochitas abanico Pelo natural",
       "price": 3800,
+      "active": true,
+      "category": "Brochas",
+      "marks": "Beili",
       "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/971/258/products/screenshot_20210624-1631231-7b913bfa7295e901a816247162743059-640-0.png"
     },
     {
       "name": "SET 6 PIEZAS RED VINTAGE",
       "description": "Set para ojos x 6 piezas Pelo natural y 1 abanico de pelo sintético Pelo línea Premium",
       "price": 3900,
+      "active": true,
+      "category": "Combos",
+      "marks": "Vintage",
       "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/971/258/products/img_20210626_15501713721-6a9e8585bdd349b13916247454093229-640-0.jpg"
     },
     {
       "name": "HYALURONIC 4D SERUM",
       "description": "Concentrado hidratante con efecto relleno. Toda la potencia del ácido hialurónico en su máxima concentración en efecto sinérgico con carrageninas.",
       "price": 3255,
+      "active": true,
+      "category": "Serum",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/ldh_hyaluronic_4d_serum_30ml_mobile_001_580xauto.jpg"
     },
     {
       "name": "RADIAN C BRIGHTENING SERUM",
       "description": "Gel para rostro con una innovadora molécula de vitamina C, alfa arbutina y ácido hialurónico que atenúan los signos del envejecimiento, mejoran la formación de colágeno y unifican el tono de la piel.",
       "price": 2650,
+      "active": true,
+      "category": "Serum",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/ldh_radian_c_brightening_serum_x30g_001_web_1_580xauto.jpg"
     },
     {
       "name": "DHERMA SCIENCE NIGHT RESET CREAM",
       "description": "Crema evanescente de uso nocturno que ayuda a equilibrar el exceso de cortisol, causante del estrés crónico.",
       "price": 3625,
+      "active": true,
+      "category": "Cremas",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/night_reset_580xauto.jpeg"
     },
     {
       "name": "HYDRAPORE CONTORNO DE OJOS",
       "description": "Fluido refrescante con potentes activos que hidratan profundamente la zona periocular. ",
       "price": 2080,
+      "active": true,
+      "category": "Contorno de Ojos",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/ldh_hydrapore_contorno_ojos_15ml_sin_tapa_mobile_580xauto.jpg"
     },
     {
       "name": "PLASMA INFUSION SERUM",
       "description": "Gel fluido de textura sedosa que ayuda a disminuir las secuelas del paso del tiempo.",
       "price": 2275,
+      "active": true,
+      "category": "Serum",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/ldh_plasma_infusion_serum_30g_mobile_001_580xauto.jpg"
     },
     {
       "name": "RETINOL A+ EMULSIÓN",
       "description": "Emulsion con retinol y nicotinamida que previene los signos del envejecimiento. El retinol produce una gran renovacion celular y la nicotinamida mantiene la integridad de la piel.",
       "price": 3200,
+      "active": true, 
+      "category": "Emulsion",
+      "marks": "Lidherma",
       "image": "https://www.lidherma.com/thumbnails/ldh_retinol_a_emulsion_30ml_mobile_001_580xauto.jpg"
     }
   ]

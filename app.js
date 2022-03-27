@@ -15,6 +15,6 @@ app.set('port', config.PORT);
 app.use(morgan('dev'));
 app.use(bodyParser.json({limit: '50mb'}));
 //Rutas
-app.use(require('./routes/Products/routes_products')); //Este trae todas las rutas y controladores.
+app.use(require('./routes/index')); //Este trae todas las rutas y controladores.
 
 module.exports = app;
